@@ -1,2 +1,10 @@
 # Linear-Regression
-I will upload all the linear regression based predictions on datasets based in R programming and Python
+This dataset contains 5 variables 
+1. empid -Employee ID
+2. jpi -Job Profile Index
+3. aptitude -Aptitude Score
+4. tol
+5. technical -Technical Aptitude
+6. general -General Aptitude
+
+with jpi being the target variable 
